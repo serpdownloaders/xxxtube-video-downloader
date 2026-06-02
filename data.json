@@ -1,0 +1,217 @@
+{
+  "github_source_repo": "https://github.com/serpcompany/xxxtube-downloader",
+  "serply_link": "https://serp.ly/xxxtube-downloader",
+  "app_name": "Xxxtube Video Downloader",
+  "short_description": "Download & Save Xxxtube Videos Easily for Offline Viewing (Browser Extension)",
+  "long_description": "Xxxtube Downloader is a browser extension built for x-x-x.tube video pages. It detects media streams on supported video pages and exports them as standard MP4 files. The extension works on Chrome, Edge, Brave, and Firefox, and is designed for users who want to save XXX Tube content for offline viewing or personal archiving.",
+  "main_video": "",
+  "featured_image": "",
+  "screenshots": [
+    "https://apps.serp.co/media/optimized-products/xxxtube-downloader-fullscreen-01-63bd283db6.webp",
+    "https://apps.serp.co/media/optimized-products/xxxtube-downloader-fullscreen-02-31565201fc.webp",
+    "https://apps.serp.co/media/optimized-products/xxxtube-downloader-fullscreen-03-ffc65e82b4.webp",
+    "https://apps.serp.co/media/optimized-products/xxxtube-downloader-fullscreen-04-6457d2e42a.webp"
+  ],
+  "chromestore_link": "",
+  "firefoxstore_link": "",
+  "other_links": [],
+  "faqs": [
+    {
+      "question": "Does this work on all XXX Tube pages?",
+      "answer": "The extension is designed for standard video pages with the /videos/ route. Other page types may not be supported."
+    },
+    {
+      "question": "Is this extension free?",
+      "answer": "You get 3 free downloads to test the workflow. Unlimited downloads require a paid license."
+    },
+    {
+      "question": "Will this work on mobile browsers?",
+      "answer": "The extension is designed for desktop browsers including Chrome, Edge, Brave, and Firefox. Mobile browser support is not guaranteed."
+    },
+    {
+      "question": "Do I need an account on XXX Tube to use this?",
+      "answer": "No account on XXX Tube is required. You only need to sign in to the extension for license verification."
+    },
+    {
+      "question": "Can I choose the video quality?",
+      "answer": "The extension offers quality options when multiple streams are available on the page."
+    },
+    {
+      "question": "Is this legal to use?",
+      "answer": "Only download content you own or have explicit permission to save. Respect copyright and terms of service."
+    }
+  ],
+  "permissions": [
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save. Respect copyright and terms of service."
+    },
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save"
+    }
+  ],
+  "features": [
+    "Detects video streams directly on x-x-x.tube pages",
+    "Exports content as standard MP4 files",
+    "Works across Chrome, Edge, Brave, and Firefox",
+    "Simple popup interface for quick access",
+    "No account or login required to start downloading",
+    "Detects video streams on supported x-x-x.tube video pages",
+    "Exports content as MP4 files for local storage",
+    "Popup interface for quick access to download options",
+    "Works on Chrome, Edge, Brave, and Firefox browsers",
+    "No account required to start using the extension",
+    "Simple three-click workflow from page to file",
+    "Lightweight extension with minimal browser overhead",
+    "Regular updates to maintain compatibility with XXX Tube"
+  ],
+  "content": {
+    "why": [
+      "Watching videos on XXX Tube means you need an active internet connection every time. Streaming the same content repeatedly uses bandwidth and can be interrupted by network issues or site changes. If you want to build a personal collection or watch videos offline, you need a way to save them locally.",
+      "Xxxtube Downloader gives you a direct way to export video streams from x-x-x.tube as MP4 files. Instead of relying on third-party sites or complicated tools, you can capture media directly from the video page using your browser. The extension is designed to work with the standard video page structure on XXX Tube, making the process straightforward."
+    ],
+    "how_it_works": [
+      "Install the extension from the latest release.",
+      "Open XXX Tube and go to a supported video page.",
+      "Start playback so the extension can detect the media.",
+      "Open the popup or use the on-page controls.",
+      "Choose the quality option you want.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Save the final file locally."
+    ],
+    "tutorial": [
+      "Install Xxxtube Downloader from the GitHub Releases page.",
+      "Open your browser and navigate to x-x-x.tube.",
+      "Find a video you want to download and open its page.",
+      "Click the play button to start video playback.",
+      "Click the extension icon in your browser toolbar to open the popup.",
+      "Wait for the extension to detect the video stream.",
+      "Select your preferred quality option from the available choices.",
+      "Click the download button and save the MP4 file to your computer."
+    ],
+    "supported_formats": [
+      "Input: Video streams from supported x-x-x.tube video pages",
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally."
+    ],
+    "target_users": [
+      "Users who want to save XXX Tube videos for offline viewing",
+      "Collectors building a personal library of adult content",
+      "Anyone with limited or unreliable internet access who needs offline playback",
+      "Users who prefer to manage their own media files instead of relying on streaming"
+    ],
+    "use_cases": [
+      "Downloading favorite videos for offline viewing during travel",
+      "Creating a backup of content that might be removed from the site",
+      "Building a personal archive of specific categories or performers",
+      "Saving videos to watch on devices without internet access",
+      "Transferring content to media servers or home storage solutions"
+    ],
+    "troubleshooting": [
+      "The extension does not detect any video on the page Make sure the video is playing and the page is fully loaded. Try refreshing the page and starting playback again before opening the popup.",
+      "The download fails or stops mid-way Check your internet connection and try again. Some larger files may take longer to process.",
+      "The extension icon is grayed out on XXX Tube pages The extension may not be activated on that specific page type. Try navigating to a standard video page with the /videos/ route.",
+      "I see an error about unsupported format The video may use a format that is not currently supported. Try a different video to confirm the extension is working correctly.",
+      "The popup shows no quality options The video stream may not have multiple quality levels available. The extension will still attempt to download the available stream."
+    ],
+    "trial_access": [
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
+    ],
+    "installation_instructions": [
+      "Open the latest release page.",
+      "Download the correct build for your browser.",
+      "Install the extension.",
+      "Open a supported XXX Tube page.",
+      "Use the popup to detect and download the media."
+    ],
+    "notes": [
+      "Only download content you own or have explicit permission to save",
+      "An internet connection is required for downloads",
+      "XXX Tube may change its page structure, which could affect extension compatibility",
+      "The extension works best on standard video pages with the /videos/ route format"
+    ],
+    "about": [
+      "XXX Tube is an adult video hosting platform at x-x-x.tube featuring a wide range of user-uploaded and studio content. Xxxtube Downloader helps users save videos from the site for offline access and personal archiving."
+    ]
+  },
+  "serpx_link": "https://serpx.link/xxxtube-downloader",
+  "github_topics": [
+    "xxxtube-download",
+    "xxxtube-downloader",
+    "xxxtube-video-downloader",
+    "xxxtube-video-downloader-online",
+    "xxxtube-video-downloader-mac",
+    "xxxtube-video-downloader-window",
+    "xxxtube-video-downloader-free",
+    "xxxtube-video-downloader-extension",
+    "xxxtube-video-downloader-app",
+    "xxxtube-video-downloader-chrome",
+    "xxxtube-video-downloader-from-url",
+    "how-to-download-xxxtube-videos",
+    "how-to-download-xxxtube-videos-mac",
+    "how-to-download-xxxtube-videos-windows",
+    "how-to-download-xxxtube-videos-online",
+    "how-to-download-xxxtube-videos-free",
+    "how-to-download-from-xxxtube",
+    "how-to-download-videos-from-xxxtube",
+    "download-xxxtube-videos",
+    "xxxtube-video-tutorial",
+    "save-xxxtube-videos",
+    "xxxtube-video-content-saver",
+    "how-to-download-xxxtube-videos-for-free"
+  ],
+  "hashtags": [
+    "#XxxtubeDownload",
+    "#XxxtubeDownloader",
+    "#XxxtubeVideoDownloader",
+    "#XxxtubeVideoDownloaderOnline",
+    "#XxxtubeVideoDownloaderMac",
+    "#XxxtubeVideoDownloaderWindow",
+    "#XxxtubeVideoDownloaderFree",
+    "#XxxtubeVideoDownloaderExtension",
+    "#XxxtubeVideoDownloaderApp",
+    "#XxxtubeVideoDownloaderChrome",
+    "#XxxtubeVideoDownloaderFromURL",
+    "#HowToDownloadXxxtubeVideos",
+    "#HowToDownloadXxxtubeVideosMac",
+    "#HowToDownloadXxxtubeVideosWindows",
+    "#HowToDownloadXxxtubeVideosOnline",
+    "#HowToDownloadXxxtubeVideosFree",
+    "#HowToDownloadFromXxxtube",
+    "#HowToDownloadVideosFromXxxtube",
+    "#DownloadXxxtubeVideos",
+    "#XxxtubeVideoTutorial",
+    "#SaveXxxtubeVideos",
+    "#XxxtubeVideoContentSaver",
+    "#HowToDownloadXxxtubeVideosForFree"
+  ],
+  "youtube_tags": [
+    "Xxxtube Download",
+    "Xxxtube Downloader",
+    "Xxxtube Video Downloader",
+    "Xxxtube Video Downloader Online",
+    "Xxxtube Video Downloader Mac",
+    "Xxxtube Video Downloader Window",
+    "Xxxtube Video Downloader Free",
+    "Xxxtube Video Downloader Extension",
+    "Xxxtube Video Downloader App",
+    "Xxxtube Video Downloader Chrome",
+    "Xxxtube Video Downloader From URL",
+    "How To Download Xxxtube Videos",
+    "How To Download Xxxtube Videos Mac",
+    "How To Download Xxxtube Videos Windows",
+    "How To Download Xxxtube Videos Online",
+    "How To Download Xxxtube Videos Free",
+    "How To Download From Xxxtube",
+    "How To Download Videos From Xxxtube",
+    "Download Xxxtube Videos",
+    "Xxxtube Video Tutorial",
+    "Save Xxxtube Videos",
+    "Xxxtube Video Content Saver",
+    "How To Download Xxxtube Videos For Free"
+  ]
+}
